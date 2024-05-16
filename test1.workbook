@@ -6,7 +6,7 @@
     "katexMacros": "",
     "github": {
       "editBranch": "",
-      "handinBranch": "master"
+      "handinBranch": "main"
     }
   }
 }
