@@ -11,16 +11,6 @@
         "entities": {}
       }
     },
-    "5": {
-      "id": 5,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    },
     "8": {
       "id": 8,
       "type": "text",
@@ -33,7 +23,6 @@
     }
   },
   "cellsOrder": [
-    5,
     4,
     8
   ],
