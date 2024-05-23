@@ -50,6 +50,46 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "6": {
+      "id": 6,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    },
+    "7": {
+      "id": 7,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    },
+    "8": {
+      "id": 8,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    },
+    "9": {
+      "id": 9,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
@@ -57,7 +97,11 @@
     2,
     3,
     4,
-    5
+    5,
+    9,
+    8,
+    7,
+    6
   ],
   "settings": {
     "katexMacros": "",
