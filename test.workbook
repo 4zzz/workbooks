@@ -100,11 +100,22 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "20": {
+      "id": 20,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     10,
     15,
+    20,
     19,
     18,
     17,
