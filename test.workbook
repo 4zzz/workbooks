@@ -60,11 +60,22 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "16": {
+      "id": 16,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     10,
     15,
+    16,
     14,
     13,
     12,
