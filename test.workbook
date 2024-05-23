@@ -50,6 +50,16 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "12": {
+      "id": 12,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
@@ -57,6 +67,7 @@
     8,
     7,
     6,
+    12,
     11
   ],
   "settings": {
