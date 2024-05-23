@@ -90,11 +90,22 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "19": {
+      "id": 19,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     10,
     15,
+    19,
     18,
     17,
     16,
