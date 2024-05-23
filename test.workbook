@@ -1,16 +1,6 @@
 {
   "versionNumber": 1,
   "cells": {
-    "5": {
-      "id": 5,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    },
     "6": {
       "id": 6,
       "type": "text",
@@ -63,7 +53,6 @@
     }
   },
   "cellsOrder": [
-    5,
     9,
     10,
     8,
