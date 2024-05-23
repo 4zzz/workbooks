@@ -60,6 +60,16 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "13": {
+      "id": 13,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
@@ -67,6 +77,7 @@
     8,
     7,
     6,
+    13,
     12,
     11
   ],
