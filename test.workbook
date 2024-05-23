@@ -10,10 +10,21 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "11": {
+      "id": 11,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
-    10
+    10,
+    11
   ],
   "settings": {
     "katexMacros": "",
