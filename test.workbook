@@ -50,10 +50,21 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "15": {
+      "id": 15,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     10,
+    15,
     14,
     13,
     12,
