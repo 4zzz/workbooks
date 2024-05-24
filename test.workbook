@@ -90,6 +90,16 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "10": {
+      "id": 10,
+      "type": "text",
+      "data": "",
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
@@ -98,6 +108,7 @@
     3,
     4,
     5,
+    10,
     9,
     8,
     7,
