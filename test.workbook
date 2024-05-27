@@ -20,20 +20,9 @@
         "ids": [],
         "entities": {}
       }
-    },
-    "8": {
-      "id": 8,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
     }
   },
   "cellsOrder": [
-    8,
     7,
     6
   ],
