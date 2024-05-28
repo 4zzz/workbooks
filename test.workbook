@@ -1,20 +1,7 @@
 {
   "versionNumber": 1,
-  "cells": {
-    "11": {
-      "id": 11,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    }
-  },
-  "cellsOrder": [
-    11
-  ],
+  "cells": {},
+  "cellsOrder": [],
   "settings": {
     "katexMacros": "",
     "github": {
