@@ -15,10 +15,19 @@
       "id": 2,
       "type": "text",
       "data": "Text v 2. bunke",
-      "idCounter": 0,
+      "idCounter": 1,
       "comments": {
-        "ids": [],
-        "entities": {}
+        "ids": [
+          0
+        ],
+        "entities": {
+          "0": {
+            "author": "4zzz",
+            "text": "OK 10/10",
+            "timestamp": 1716916139014,
+            "id": 0
+          }
+        }
       }
     },
     "3": {
