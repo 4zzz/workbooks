@@ -50,20 +50,9 @@
         "ids": [],
         "entities": {}
       }
-    },
-    "17": {
-      "id": 17,
-      "type": "text",
-      "data": "",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
     }
   },
   "cellsOrder": [
-    17,
     16,
     14,
     13,
