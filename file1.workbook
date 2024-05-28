@@ -1,49 +1,30 @@
 {
-  "versionNumber": 1,
-  "cells": {
-    "1": {
+  "versionNumber": 2,
+  "cells": [
+    {
       "id": 1,
       "type": "text",
       "data": "Text v 1. bunke",
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
+      "comments": []
     },
-    "2": {
+    {
       "id": 2,
       "type": "text",
       "data": "Text v 2. bunke",
-      "idCounter": 1,
-      "comments": {
-        "ids": [
-          0
-        ],
-        "entities": {
-          "0": {
-            "author": "4zzz",
-            "text": "OK 10/10",
-            "timestamp": 1716916139014,
-            "id": 0
-          }
+      "comments": [
+        {
+          "author": "4zzz",
+          "text": "OK 10/10",
+          "timestamp": 1716916139014,
+          "id": 0
         }
-      }
+      ]
     },
-    "3": {
+    {
       "id": 3,
       "type": "tableauEditor",
       "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
+      "comments": []
     }
-  },
-  "cellsOrder": [
-    1,
-    2,
-    3
   ]
 }
