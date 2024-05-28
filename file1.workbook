@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "text",
-      "data": "",
+      "data": "Text v 1. bunke",
       "idCounter": 0,
       "comments": {
         "ids": [],
